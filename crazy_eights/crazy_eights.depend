@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1603294335 source:c:\users\roman\documents\freelance\crazy_eights\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"Card.h"
+	"Deck.h"
+	"Hand.h"
+	"Player.h"
+
+1603292602 source:c:\users\roman\documents\freelance\crazy_eights\src\deck.cpp
+	"Deck.h"
+	"Card.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1603292571 c:\users\roman\documents\freelance\crazy_eights\include\deck.h
+	"Card.h"
+
+1603292551 c:\users\roman\documents\freelance\crazy_eights\include\card.h
+
+1603293815 source:c:\users\roman\documents\freelance\crazy_eights\src\card.cpp
+	"Card.h"
+	<iostream>
+
+1603293807 c:\users\roman\documents\freelance\crazy_eights\include\hand.h
+	"Card.h"
+	<iostream>
+
+1603293835 source:c:\users\roman\documents\freelance\crazy_eights\src\hand.cpp
+	"Hand.h"
+	"Card.h"
+	<iostream>
+
+1603294317 source:c:\users\roman\documents\freelance\crazy_eights\src\player.cpp
+	"Player.h"
+	"Hand.h"
+
+1603294307 c:\users\roman\documents\freelance\crazy_eights\include\player.h
+	"Hand.h"
+
